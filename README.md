@@ -23,7 +23,7 @@ This project is a responsive front-end **UI clone of YouTube's homepage**, built
 
 ## 🔗 Live Demo
 
-[🌍 View Live on GitHub Pages](https://roshanwebdev.github.io/youtube-clone/)  
+[🌍 View Live on GitHub Pages](https://RoshanWebDev.github.io/youtube-clone/)  
 > *(Make sure to enable GitHub Pages after uploading)*
 
 ---
